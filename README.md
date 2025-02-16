@@ -1,3 +1,3 @@
-# mmm_lightweight_media
+# New Lightweight (Bayesian) Marketing Mix Modeling
 
 This project implemented a Marketing Mix Model (MMM) to analyze the impact of TV, Radio, and Newspaper advertising on sales. Using Python and Pandas, advertising budget and sales data were preprocessed. A Bayesian MMM with carryover effects was built using the LightweightMMM library, leveraging JAX for numerical computation. NumPy was used for array manipulation. Model fitting and posterior sampling were performed, and Matplotlib was employed to create visualizations including model fit plots, media channel contributions, and response curves. The project provides insights into marketing effectiveness for budget optimization.
